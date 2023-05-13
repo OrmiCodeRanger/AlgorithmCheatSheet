@@ -1,6 +1,6 @@
 # Comparing result with enum in python
 
-- [enum 사용한 파이썬 코드 - 백준 27447 주문은 토기입니까?](https://github.com/OrmiCodeRanger/ChoiSeunghyeon/commit/b95f48beb847fb2a962932d6f90eacdefc70aeb3)
+- [enum 사용한 파이썬 코드 - 백준 27447 주문은 토기입니까?](https://github.com/OrmiCodeRanger/ChoiSeunghyeon/blob/a005d108a359d242d421217bae8b5c912b204fc3/ex27447.py)
 
 ```python
 from enum import Enum, auto

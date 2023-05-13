@@ -1,6 +1,6 @@
 # Implementing Bitset in python
 
-- [비트셋 사용한 파이썬 코드 - 백준 27447 주문은 토기입니까?](https://github.com/OrmiCodeRanger/ChoiSeunghyeon/commit/b95f48beb847fb2a962932d6f90eacdefc70aeb3)
+- [비트셋 사용한 파이썬 코드 - 백준 27447 주문은 토기입니까?](https://github.com/OrmiCodeRanger/ChoiSeunghyeon/blob/a005d108a359d242d421217bae8b5c912b204fc3/ex27447.py)
 
 일단 클래스 및 구현체부터 살펴보자.
 
